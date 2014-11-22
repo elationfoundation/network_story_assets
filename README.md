@@ -5,7 +5,7 @@ All new art assets within are licensed to Seamus Tuohy under [CC-BY-SA-3.0](http
 
 ## To Use
 
-  * **VIEW:** Open any of these SVG files in Chrom[e/ium] (best performance) or Firefox.
+  * **VIEW:** Open any of these SVG files in Chrom(e/ium) (best performance) or Firefox.
 
   * **EDIT:** Open them in Inkscape with the Sozi plugin enabled..
 
